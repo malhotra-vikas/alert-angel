@@ -1,7 +1,9 @@
 # Central logging and alerting mechanism (CLAM)
 
 This repository contains the source code for the CLAM project.
+## Objective of the project
 
+TBD
 
 ## License
 
